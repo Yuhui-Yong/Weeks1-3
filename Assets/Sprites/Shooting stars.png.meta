@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ca6ea935d71319640b54bfecfedbda5b
+guid: d52c713df37fd5b4db50be6dd60e7088
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9212275650587600386
-    second: Light_0
+      213: 331656482175660836
+    second: Shooting stars_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Light_0
+      name: Shooting stars_0
       rect:
         serializedVersion: 2
-        x: 120
-        y: 370
-        width: 631
-        height: 337
+        x: 368
+        y: 1695
+        width: 109
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 206214e35e398df70800000000000000
-      internalID: 9212275650587600386
+      spriteID: 423398730d74a9400800000000000000
+      internalID: 331656482175660836
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Light_0: 9212275650587600386
+      Shooting stars_0: 331656482175660836
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
