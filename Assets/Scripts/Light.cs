@@ -17,12 +17,12 @@ public class Light : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        progress += Time.deltaTime / duration;
+        progress += Time.deltaTime / duration; // Progress is set to be the time that transcurs every second 
         output = cureve.Evaluate(progress);
 
-        transform.localScale = Vector3.one * output;
+        transform.localScale = Vector3.one * output; 
 
-        if (progress > 1f)
+        if (progress > 1f) // If porgress is less than 1, then the actions is called.
         {
             progress = 0f;
         }
