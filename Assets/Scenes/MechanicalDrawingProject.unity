@@ -216,6 +216,7 @@ GameObject:
   m_Component:
   - component: {fileID: 170872295}
   - component: {fileID: 170872294}
+  - component: {fileID: 170872296}
   m_Layer: 0
   m_Name: Stars_6
   m_TagString: Untagged
@@ -293,6 +294,53 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &170872296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170872293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae19c47a48b05d44a998e909af7d2a51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cureve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -0.89725333
+      outSlope: -0.89725333
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.5001551
+      value: 0.5512342
+      inSlope: 0.0002783835
+      outSlope: 0.0002783835
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0.8978101
+      outSlope: 0.8978101
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  duration: 1
+  output: 0
 --- !u!1 &329536836
 GameObject:
   m_ObjectHideFlags: 0
@@ -303,6 +351,7 @@ GameObject:
   m_Component:
   - component: {fileID: 329536838}
   - component: {fileID: 329536837}
+  - component: {fileID: 329536839}
   m_Layer: 0
   m_Name: Stars_5
   m_TagString: Untagged
@@ -380,6 +429,53 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &329536839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329536836}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae19c47a48b05d44a998e909af7d2a51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cureve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 1.0409352
+      outSlope: 1.0409352
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.49944678
+      value: 1.5198917
+      inSlope: 0.0011504889
+      outSlope: 0.0011504889
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -1.0386342
+      outSlope: -1.0386342
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  duration: 1
+  output: 0
 --- !u!1 &620965893
 GameObject:
   m_ObjectHideFlags: 0
@@ -390,6 +486,7 @@ GameObject:
   m_Component:
   - component: {fileID: 620965895}
   - component: {fileID: 620965894}
+  - component: {fileID: 620965896}
   m_Layer: 0
   m_Name: Stars_3
   m_TagString: Untagged
@@ -467,6 +564,53 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &620965896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 620965893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae19c47a48b05d44a998e909af7d2a51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cureve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -0.9436599
+      outSlope: -0.9436599
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.50487083
+      value: 0.52357364
+      inSlope: 0.009283245
+      outSlope: 0.009283245
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0.9622264
+      outSlope: 0.9622264
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  duration: 1
+  output: 0
 --- !u!1 &765987961
 GameObject:
   m_ObjectHideFlags: 0
@@ -651,6 +795,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1436658679}
   - component: {fileID: 1436658678}
+  - component: {fileID: 1436658680}
   m_Layer: 0
   m_Name: Stars_0
   m_TagString: Untagged
@@ -728,6 +873,53 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1436658680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1436658677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae19c47a48b05d44a998e909af7d2a51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cureve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 1.0143943
+      outSlope: 1.0143943
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.4996547
+      value: 1.5068469
+      inSlope: 0.00069999695
+      outSlope: 0.00069999695
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -1.0129943
+      outSlope: -1.0129943
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  duration: 1
+  output: 0
 --- !u!1 &1437794597
 GameObject:
   m_ObjectHideFlags: 0
@@ -738,6 +930,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1437794599}
   - component: {fileID: 1437794598}
+  - component: {fileID: 1437794600}
   m_Layer: 0
   m_Name: Stars_2
   m_TagString: Untagged
@@ -815,6 +1008,53 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1437794600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1437794597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae19c47a48b05d44a998e909af7d2a51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cureve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -0.9253171
+      outSlope: -0.9253171
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.50175846
+      value: 0.5357143
+      inSlope: 0.0032657385
+      outSlope: 0.0032657385
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0.9318486
+      outSlope: 0.9318486
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  duration: 1
+  output: 0
 --- !u!1 &1483056178
 GameObject:
   m_ObjectHideFlags: 0
@@ -825,6 +1065,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1483056180}
   - component: {fileID: 1483056179}
+  - component: {fileID: 1483056181}
   m_Layer: 0
   m_Name: Firebug_0
   m_TagString: Untagged
@@ -896,12 +1137,24 @@ Transform:
   m_GameObject: {fileID: 1483056178}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.105410635, y: -0.4920289, z: 0}
+  m_LocalPosition: {x: 1.38, y: -0.04, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1483056181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1483056178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 522a62494aff70f4fb41d47582805edf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1686925474
 GameObject:
   m_ObjectHideFlags: 0
@@ -912,6 +1165,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1686925476}
   - component: {fileID: 1686925475}
+  - component: {fileID: 1686925477}
   m_Layer: 0
   m_Name: Stars_1
   m_TagString: Untagged
@@ -989,6 +1243,53 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1686925477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1686925474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae19c47a48b05d44a998e909af7d2a51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cureve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0.60712093
+      outSlope: 0.60712093
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.5000507
+      value: 1.3035913
+      inSlope: -0.0000616014
+      outSlope: -0.0000616014
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -0.60724413
+      outSlope: -0.60724413
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  duration: 1
+  output: 0
 --- !u!1 &1771974107
 GameObject:
   m_ObjectHideFlags: 0
@@ -999,6 +1300,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1771974109}
   - component: {fileID: 1771974108}
+  - component: {fileID: 1771974110}
   m_Layer: 0
   m_Name: Shooting stars_0
   m_TagString: Untagged
@@ -1070,12 +1372,27 @@ Transform:
   m_GameObject: {fileID: 1771974107}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.055, y: 2.434, z: 0}
+  m_LocalPosition: {x: -3.1, y: 5.51, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1771974110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1771974107}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d061d9b51e7ca82458de4ca947b7a2a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startPos: {x: -3.14, y: 5.36}
+  endPos: {x: 3.42, y: -1.79}
+  t: 0
 --- !u!1 &1882110148
 GameObject:
   m_ObjectHideFlags: 0
@@ -1223,6 +1540,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2034734656}
   - component: {fileID: 2034734655}
+  - component: {fileID: 2034734657}
   m_Layer: 0
   m_Name: Moon_0
   m_TagString: Untagged
@@ -1300,6 +1618,53 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2034734657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2034734654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae19c47a48b05d44a998e909af7d2a51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cureve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.0032806396
+      value: 1
+      inSlope: -0.3042984
+      outSlope: -0.3042984
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.50220215
+      value: 0.848179
+      inSlope: 0.00034344196
+      outSlope: 0.00034344196
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0.30498528
+      outSlope: 0.30498528
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  duration: 10
+  output: 0
 --- !u!1 &2054094374
 GameObject:
   m_ObjectHideFlags: 0
@@ -1310,6 +1675,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2054094376}
   - component: {fileID: 2054094375}
+  - component: {fileID: 2054094377}
   m_Layer: 0
   m_Name: Stars_4
   m_TagString: Untagged
@@ -1387,6 +1753,53 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2054094377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2054094374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae19c47a48b05d44a998e909af7d2a51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cureve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 1.0150273
+      outSlope: 1.0150273
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.5007809
+      value: 1.5083063
+      inSlope: -0.0015876889
+      outSlope: -0.0015876889
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -1.0182027
+      outSlope: -1.0182027
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  duration: 1
+  output: 0
 --- !u!1 &2141308975
 GameObject:
   m_ObjectHideFlags: 0
@@ -1397,6 +1810,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2141308977}
   - component: {fileID: 2141308976}
+  - component: {fileID: 2141308978}
   m_Layer: 0
   m_Name: Light_0
   m_TagString: Untagged
@@ -1474,6 +1888,62 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2141308978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2141308975}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae19c47a48b05d44a998e909af7d2a51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cureve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -0.22428277
+      outSlope: -0.22428277
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 3.1693707
+      value: 0.28916478
+      inSlope: -0.023250556
+      outSlope: -0.023250556
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 6.4441395
+      value: 0.9979944
+      inSlope: 0.062674314
+      outSlope: 0.062674314
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 9.239441
+      value: 0.37621963
+      inSlope: 0.0012700702
+      outSlope: 0.0012700702
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.5472936
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  duration: 3
+  output: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
